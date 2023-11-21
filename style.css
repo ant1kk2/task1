@@ -17,12 +17,12 @@
     line-height: 100%;
   }
   
-  .loading {
+  .waves {
     overflow: hidden;
     position: relative;
   }
   
-  .loading span {
+  .waves span {
     display: inline-block;
     animation: loading 4s linear infinite;
   }
@@ -38,52 +38,52 @@
       transform: translateY(0%);
     }
   }
-  .loading span:nth-child(1) {
+  .waves span:nth-child(1) {
       animation-delay: 0s;
     }
-  .loading span:nth-child(2) {
+  .waves span:nth-child(2) {
     animation-delay: 0.2s;
   }
-  .loading span:nth-child(3) {
+  .waves span:nth-child(3) {
     animation-delay: 0.4s;
   }
-  .loading span:nth-child(4) {
+  .waves span:nth-child(4) {
     animation-delay: 0.6s;
   }
-  .loading span:nth-child(5) {
+  .waves span:nth-child(5) {
     animation-delay: 0.8s;
   }
-  .loading span:nth-child(6) {
+  .waves span:nth-child(6) {
     animation-delay: 1s;
   }
-  .loading span:nth-child(7) {
+  .waves span:nth-child(7) {
     animation-delay: 1.2s;
   }
-  .loading span:nth-child(8) {
+  .waves span:nth-child(8) {
     animation-delay: 1.4s;
   }
-  .loading span:nth-child(9) {
+  .waves span:nth-child(9) {
     animation-delay: 1.6s;
   }
-  .loading span:nth-child(10) {
+  .waves span:nth-child(10) {
     animation-delay: 1.8s;
   }
-  .loading span:nth-child(11) {
+  .waves span:nth-child(11) {
     animation-delay: 2s;
   }
-  .loading span:nth-child(12) {
+  .waves span:nth-child(12) {
     animation-delay: 2.2s;
   }
-  .loading span:nth-child(13) {
+  .waves span:nth-child(13) {
     animation-delay: 2.4s;
   }
-  .loading span:nth-child(14) {
+  .waves span:nth-child(14) {
     animation-delay: 2.6s;
   }
-  .loading span:nth-child(15) {
+  .waves span:nth-child(15) {
     animation-delay: 2.8s;
   }
-  .loading span:nth-child(16) {
+  .waves span:nth-child(16) {
     animation-delay: 3s;
   }
   
